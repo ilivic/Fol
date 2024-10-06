@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\visualapp\\pagereg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\visualapp\\pagereg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\visualapp\\pagemenu.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\visualapp\\pagemenu.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\visualapp\\pagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\visualapp\\pagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\visualapp\\pagelogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\visualapp\\pagelogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\classapp\\classcorr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\classapp\\classcorr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\visualapp\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\visualapp\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\visualapp\\pagereg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\visualapp\\pagereg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\visualapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\visualapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\visualapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\visualapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|c:\\users\\ilivic\\source\\repos\\wpfapp1\\wpfapp1\\adoapp\\modeltest.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{299D8538-B7E0-4398-BD14-F8DD13A55A3D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\adoapp\\modeltest.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageMenu.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\VisualApp\\PageMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageMenu.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\VisualApp\\PageMenu.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:24:41.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassCorr.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\ClassApp\\ClassCorr.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ClassApp\\ClassCorr.cs",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\ClassApp\\ClassCorr.cs",
+              "RelativeToolTip": "WpfApp1\\ClassApp\\ClassCorr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:23:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageMenu.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\VisualApp\\PageMenu.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageMenu.xaml",
+              "RelativeToolTip": "WpfApp1\\VisualApp\\PageMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T12:19:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisualApp\\PageReg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageReg.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\VisualApp\\PageReg.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageReg.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\VisualApp\\PageReg.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:13:40.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageReg.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageReg.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\VisualApp\\PageReg.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageReg.xaml",
+              "RelativeToolTip": "WpfApp1\\VisualApp\\PageReg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T12:10:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisualApp\\PageLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageLogin.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\VisualApp\\PageLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageLogin.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\VisualApp\\PageLogin.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAxwCoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:09:51.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageLogin.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\VisualApp\\PageLogin.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\PageLogin.xaml",
+              "RelativeToolTip": "WpfApp1\\VisualApp\\PageLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T12:03:01.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\VisualApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\VisualApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:02:50.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\VisualApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\VisualApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\VisualApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T12:02:07.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:01:17.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelTest.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\AdoAPP\\ModelTest.edmx",
+              "RelativeDocumentMoniker": "WpfApp1\\AdoAPP\\ModelTest.edmx",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\AdoAPP\\ModelTest.edmx [Diagram1]",
+              "RelativeToolTip": "WpfApp1\\AdoAPP\\ModelTest.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-06T11:59:56.621Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T11:57:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\App.config",
+              "RelativeDocumentMoniker": "WpfApp1\\App.config",
+              "ToolTip": "C:\\Users\\ilivic\\source\\repos\\WpfApp1\\WpfApp1\\App.config",
+              "RelativeToolTip": "WpfApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAADOAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-06T11:57:52.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

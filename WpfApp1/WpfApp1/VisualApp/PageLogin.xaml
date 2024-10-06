@@ -1,0 +1,61 @@
+﻿<Page x:Class="WpfApp1.VisualApp.PageLogin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1.VisualApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageLogin">
+    <Page.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+            <Setter Property="BorderBrush" Value="Maroon"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+            <Setter Property="BorderBrush" Value="Maroon"/>
+            <Setter Property="Background" Value="Transparent"/>
+            
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+        <Style TargetType="PasswordBox">
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Foreground" Value="Maroon"/>
+            <Setter Property="BorderBrush" Value="Maroon"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="Maroon"/>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Label Content="Login :"/>
+            <TextBox x:Name="TxtLogin"/>
+            <Label Content="password :"/>
+            <PasswordBox x:Name="TxtPassword"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Login" Background="LightGreen" Click="ClEventGoLogin"/>
+                <Button Content="Registration" Background="SkyBlue" Click="CLEventGoReg"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
